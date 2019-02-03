@@ -1,0 +1,10 @@
+demo:
+  archive:
+  -
+    host: "localhost"
+    database: "archive1"
+    port: "27017"
+  -
+    host: "localhost"
+    database: "archive2"
+    port: "27017" 
